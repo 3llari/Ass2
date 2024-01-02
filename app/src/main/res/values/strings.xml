@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ass2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">E-Mail</string>
+    <string name="register">Register</string>
+    <string name="firstapp">COVID-19 Data</string>
+    <string name="secondapp">Exchange Rates</string>
+    <string name="covid_19_data">COVID-19 Data</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="results_will_appear_here">Results will appear here</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="go_to_login">Go to Login</string>
+</resources>
